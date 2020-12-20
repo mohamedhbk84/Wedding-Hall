@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.CamActivity">
+
+    <!--<EditText-->
+        <!--android:id="@+id/Edt_price_cam"-->
+        <!--android:hint="Price"-->
+        <!--android:textSize="@dimen/dim_l"-->
+        <!--android:padding="@dimen/dim_l"-->
+        <!--android:gravity="center"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content" />-->
+    <!--<EditText-->
+        <!--android:id="@+id/Edt_name_cam"-->
+        <!--android:hint="name"-->
+        <!--android:layout_below="@id/Edt_price_cam"-->
+        <!--android:textSize="@dimen/dim_l"-->
+        <!--android:padding="@dimen/dim_l"-->
+        <!--android:gravity="center"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content" />-->
+    <!--<EditText-->
+        <!--android:id="@+id/Edt_desc_cam"-->
+        <!--android:hint="description"-->
+        <!--android:layout_below="@id/Edt_name_cam"-->
+        <!--android:textSize="@dimen/dim_l"-->
+        <!--android:padding="@dimen/dim_l"-->
+        <!--android:gravity="center"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content" />-->
+    <!--<LinearLayout-->
+        <!--android:id="@+id/ly"-->
+        <!--android:layout_marginTop="@dimen/dim_4xl"-->
+        <!--android:orientation="horizontal"-->
+        <!--android:layout_below="@id/Edt_desc_cam"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="150dp">-->
+        <!--<ImageView-->
+            <!--android:background="@drawable/ic_camera_black_24dp"-->
+            <!--android:id="@+id/Image_cam"-->
+            <!--android:layout_width="140dp"-->
+            <!--android:layout_height="match_parent" />-->
+
+        <!--<Button-->
+            <!--android:id="@+id/Choose_Image"-->
+            <!--android:layout_width="170dp"-->
+            <!--android:layout_height="50dp"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:layout_marginEnd="@dimen/dim_3xl"-->
+            <!--android:text="chooseImage" />-->
+
+    <!--</LinearLayout>-->
+    <!--<Button-->
+        <!--android:id="@+id/add_Image_cam"-->
+        <!--android:layout_marginStart="@dimen/dim_11xl"-->
+        <!--android:text="add"-->
+        <!--android:layout_below="@id/ly"-->
+        <!--android:layout_width="180dp"-->
+        <!--android:layout_height="50dp" />-->
+    <!--<Button-->
+        <!--android:id="@+id/wedding_Image_view"-->
+        <!--android:layout_marginStart="@dimen/dim_11xl"-->
+        <!--android:text="add_wedding"-->
+        <!--android:layout_below="@id/add_Image_cam"-->
+        <!--android:layout_width="180dp"-->
+        <!--android:layout_height="50dp" />-->
+</RelativeLayout>
